@@ -1,7 +1,7 @@
 
 # 🧠 Sistema de Detección de Secretos en Código Fuente mediante Fine-Tuning de LLMs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marodero/tfm-secret-detector/blob/main/TFM_V1PLUS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Michelhomer/tfm-secret-detector/blob/main/TFM_V1PLUS.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/Model-Qwen2.5--Coder--7B-violet?logo=huggingface&logoColor=white)](https://huggingface.co/Qwen/Qwen2.5-Coder-7B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
